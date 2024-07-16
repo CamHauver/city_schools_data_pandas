@@ -1,5 +1,11 @@
 # # PyCity Schools Analysis
-# 
+
+# Open PyCitySchools.ipynb to view code and analysis
+
+#Original code sources: 
+    #Data Analytics course PyCitySchools_starter code from Module 4 Challenge files 
+    #Data Analytics course instructor, Andrew Hoang's, speed run Zoom recording for Module 4 Challenge
+
 # - Analysis:
 #   
 # --- Combining the data from both CSV files (schools_complete and students_complete) results in a dataset generally summarized as follows (see district_summary DataFrame):
